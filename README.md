@@ -8,7 +8,7 @@
 
 <img width="370" align="left" src="https://64.media.tumblr.com/8833ac82b24ac0f4a7d6593e84032520/tumblr_mh4l01S6aS1qi8xj6o1_500.gifv"  />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nuelSBN&label=Profile%20views&color=0e75b6&style=flat" alt="dreal-martins" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nuelSBN&label=Profile%20views&color=0e75b6&style=flat" alt="nuelSBN" /> </p>
 
 <div align="left">
   <h4>Languages and frameworks:</h4>
